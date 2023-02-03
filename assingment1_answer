@@ -1,0 +1,16 @@
+Guido van Rossum
+object-oriented programming and structured programming 
+yes
+.py
+compiled
+a module, a function body, and a class definition
+#
+sys. version
+lamda
+package manager for Python packages
+dict(),set(),int(),float(),append()....
+79
+Python programming language is a general-purpose, interpreted, and high-level language that mainly offers code readability.
+Memory management in Python involves a private heap containing all Python objects and data structures.
+The complete path of python.exe can be added by:Right-clicking This PC and going to Properties.Clicking on the Advanced system settings in the menu on the left.Clicking on the Environment Variables button o​n the bottom right.In the System variables section, selecting the Path variable and clicking on Edit.
+yes indentation is required
